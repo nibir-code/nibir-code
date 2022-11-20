@@ -3,7 +3,7 @@
 
 <h1>MERN STACK DEVELOPER</h1>
 
-Skills:  <h2 colour:red> REACT /NODE/EXPRESS/MONGODB/ JS / HTML / CSS/ PYTHON / CISCO PACKET SWICHING / PHOTO EDITING </h2>
+<h3>REACT /NODE/EXPRESS/MONGODB/ JS / HTML / CSS/ PYTHON / CISCO PACKET SWICHING / PHOTO EDITING </h3>
 
 - 🌱 I’m currently learning javascript 
 - 💬 Ask me about Web development 
