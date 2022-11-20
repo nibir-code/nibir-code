@@ -1,6 +1,5 @@
-![](https://media-exp1.licdn.com/dms/image/C5603AQEMuDhsUMXzig/profile-displayphoto-shrink_800_800/0/1605970947304?e=1674691200&v=beta&t=ythLSq5wm7K3lzLDn_SB_70EMnI34rY73d7TeJcmomk)
-
 ### Hi there 👋, I am Nibir
+![](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/312705496_8588653757842149_1221301733843005816_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=bKGnFsXLKnAAX-nz6HJ&tn=HgIPWCH36O3ATP1Z&_nc_ht=scontent.fdac13-1.fna&oh=00_AfAAcmfEt5tDXbxPWDlcEOHEP7zgd7DP-Zw46vRydePSqg&oe=637E686D)
 
 I am basically a telecommunications engineer and a web developer .
 
@@ -26,3 +25,4 @@ Skills:  REACT /NODE/EXPRESS/MONGODB/ JS / HTML / CSS/ PYTHON / CISCO PACKET SWI
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nibir-code)  
 
+![Profile views](https://gpvc.arturio.dev/nibir-code)  
