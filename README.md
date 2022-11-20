@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Nibir
 ![](https://media.tenor.com/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif)
 
-I am basically a telecommunications engineer and a web developer .
+MERN STACK DEVELOPER
 
 Skills:  REACT /NODE/EXPRESS/MONGODB/ JS / HTML / CSS/ PYTHON / CISCO PACKET SWICHING / PHOTO EDITING 
 
