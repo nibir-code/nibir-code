@@ -7,7 +7,7 @@ Skills:  REACT /NODE/EXPRESS/MONGODB/ JS / HTML / CSS/ PYTHON / CISCO PACKET SWI
 
 - 🌱 I’m currently learning javascript 
 - 💬 Ask me about Web development 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nibir-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mufashim-fuad-nibir-464b56180/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nibir101/)  
 
