@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nibir
+
 ![](https://media.tenor.com/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif)
 
 <h1>MERN STACK DEVELOPER</h1>
